@@ -1,6 +1,11 @@
 # Exploring NextJS
 [repo link](https://github.com/anil-kk/nextjs-dashboard)
 
+# tooling
+
+- [pnpm](https://pnpm.io/installation)
+- [mockapi](https://mockapi.io/)
+- [clsx](https://www.npmjs.com/package/clsx)
 
 ## Next.js App Router Course - Starter
 
